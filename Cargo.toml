@@ -6,3 +6,4 @@ authors = ["ptbw <ptbwillis@gmail.com>"]
 [dependencies]
 i2cdev = "0.3.1"
 font8x8 = { version = "0.2", default-features = false }
+image = "0.20.1"
